@@ -1,0 +1,11 @@
+com/example/application/views/cardlist/CardListView$1.class
+com/example/application/models/Link.class
+com/example/application/Application.class
+com/example/application/views/cardlist/CardListView.class
+com/example/application/service/BookService.class
+com/example/application/views/about/AboutView.class
+com/example/application/models/VolumesResponse.class
+com/example/application/service/AsyncRestCallback.class
+com/example/application/models/Result.class
+com/example/application/views/main/MainView.class
+com/example/application/repository/BookRepository.class
